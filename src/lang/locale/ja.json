@@ -1,7 +1,7 @@
 {
   "Home": {
     "placeVisited": "0 visited places | 1 visited place | {count} visited places",
-    "historyBtn": "歴史",
+    "historyBtn": "履歴",
     "medalsBtn": "MEDALS",
     "about": "このサイトについて",
     "createMap": "地図を作成",
@@ -16,8 +16,8 @@
     "customMap": "カスタムマップ",
     "customMapDescriptions": {
       "1": "検索バーで都市、都道府県、国にランダムな場所を制限できます。",
-      "2": "マルチプレイヤーでは、最初のプレイヤーが場所を修正します。",
-      "3": "さらに、あなたはあなたの習慣地図を作ることができます ",
+      "2": "マルチプレイヤーでは、最初のプレイヤーが場所を指定します。",
+      "3": "さらに、独自のカスタムマップを作ることができます ",
       "4": "ファイル",
       "5": "以下のボタンでGeoJsonマップの内容を挿入します:",
       "6": "カスタムマップ選択: "
@@ -132,7 +132,7 @@
     "invalidRoomName": "無効な名前です。別の名前を入力して下さい。",
     "inProgress": "最初のプレーヤーが部屋を作っています。再度試して下さい。",
     "roomIsFull": "この部屋は既に満員です。",
-    "alreadyStarted": "This room has already started.  Please try another."
+    "alreadyStarted": "この部屋では既にゲームが開始されました。新しい部屋を作成してください。"
   },
   "CardRoomName": {
     "title": "Type a room name to create a new room or join a existing room"
